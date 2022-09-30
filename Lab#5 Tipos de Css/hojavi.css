@@ -1,0 +1,27 @@
+body{
+    background-color: white;
+}
+.padi{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.introN{
+    font-size: 36px;
+    color: black;
+    position: relative;
+    float: right;
+    right: 200px;
+}
+
+.imagenP{
+   width: 70px;
+}
+
+.color1{
+    color: rgb(89, 89, 89);
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
